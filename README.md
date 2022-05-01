@@ -1,6 +1,8 @@
 # Overwatch-IP-Blocker
 With this App you can block IPs.
 
+Needed: Python, PySimpleGUI, 
+
 IMPORTANT: If the game tries to connect you to a blocked IP make sure to hit the DISABLE button. (If you dont want to lose 50 SR in ranked)
 
 You can also have a custom list of IPs. There will be a TXT-file which you can edit to your needs.
