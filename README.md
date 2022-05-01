@@ -1,4 +1,4 @@
-# Overwatch-IP_Blocker
+# Overwatch-IP-Blocker
 With this App you can block IPs you dont want.
 
 IMPORTANT: If the game tries to connect you to a blocked IP make shure to hit the DISABLE button. (If you dont want to lose 50 SR in ranked)
