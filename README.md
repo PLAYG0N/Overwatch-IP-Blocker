@@ -1,4 +1,4 @@
-# Overwatch-IP-Blocker
+# Overwatch-Region-Swapper
 With this App you can block IPs.
 
 Needed: Python & PySimpleGUI 
